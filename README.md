@@ -187,6 +187,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 "Explain the key features of the Python programming language and how it is used in data science."
 
 ### Why the Improved Prompt is More Effective
+
 - **Specificity**: The improved prompt specifies that the user is interested in the key features of the Python programming language.
 - **Clear Intent**: The intent is clear, as the prompt asks for an explanation of Python's features and its application in data science.
 - **Contextual Information**: The prompt provides context by mentioning data science, guiding the AI model to focus on Python's relevance to that field.
